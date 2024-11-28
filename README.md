@@ -1,17 +1,10 @@
-# lab06
+Authentication App
+This is a simple authentication application built with Flutter. It features a clean and modern design using a black-and-white color scheme with blue accents. The app includes the following screens:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# AndroidStudio.Lab06
+Sign In: Allows users to log in with a username and password.
+Sign Up: Allows new users to create an account.
+Reset Password: Provides users with an option to reset their password using their email or username.
+Features:
+Modern UI with a minimalist design
+User-friendly authentication flow
+Responsive design suitable for different screen sizes
